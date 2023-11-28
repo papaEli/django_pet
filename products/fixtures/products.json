@@ -1,0 +1,74 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": " Худи adidas Originals",
+      "description": "мягкий пошив, 100% хлопок",
+      "price": "6090.00",
+      "quantity": 5,
+      "image": "products_images/Adidas-hoodie_MNsY586.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Куртка The North Face",
+      "description": "для зимннего времени, водоотталкивающая ткань, до -30 градусов",
+      "price": "9999.00",
+      "quantity": 3,
+      "image": "products_images/Blue-jacket-The-North-Face_aoOtr6Q.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Кофта oversized-plus ASOS DESIGN",
+      "description": "овечья шерсть",
+      "price": "3390.00",
+      "quantity": 7,
+      "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN_RmqZQqL.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "рюкзак Nike Heritage",
+      "description": "вместительный рюкзак",
+      "price": "2340.00",
+      "quantity": 1,
+      "image": "products_images/Black-Nike-Heritage-backpack_6SUl4hy.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "ботинки Dr Martens 1461 Bex",
+      "description": "осенняя обувь выгульная",
+      "price": "9850.00",
+      "quantity": 2,
+      "image": "products_images/Black-Dr-Martens-shoes_U9VMZ70.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "штаны ASOS DESIGN",
+      "description": "штаны для самого крутого мафиозника детсада",
+      "price": "2890.00",
+      "quantity": 6,
+      "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers_BfnDyse.png",
+      "category": 1
+    }
+  }
+]

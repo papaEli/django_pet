@@ -1,0 +1,39 @@
+[
+  {
+    "model": "products.category",
+    "pk": 1,
+    "fields": {
+      "name": "одежда",
+      "description": "Описание одежды"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 2,
+    "fields": {
+      "name": "обувь",
+      "description": null
+    }
+  },{
+    "model": "products.category",
+    "pk": 3,
+    "fields": {
+      "name": "Новинки",
+      "description": null
+    }
+  },{
+    "model": "products.category",
+    "pk": 4,
+    "fields": {
+      "name": "Аксессуары",
+      "description": null
+    }
+  },{
+    "model": "products.category",
+    "pk": 4,
+    "fields": {
+      "name": "Подарки",
+      "description": null
+    }
+  }
+]
